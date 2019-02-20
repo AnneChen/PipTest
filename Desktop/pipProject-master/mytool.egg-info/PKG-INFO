@@ -1,12 +1,11 @@
 Metadata-Version: 1.0
-Name: magetool
-Version: 0.1.26
+Name: mytool
+Version: 0.1.0
 Summary: time and path tool
-Home-page: https://github.com/fengmm521/pipProject
-Author: mage
-Author-email: mage@woodcol.com
+Home-page: https://github.com/AnneChen/PipTest.git
+Author: anne
+Author-email: 617091464@qq.com
 License: MIT Licence
-Description-Content-Type: UNKNOWN
 Description: time and path tool
 Keywords: pip,pathtool,timetool,magetool,mage
 Platform: any
